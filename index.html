@@ -9,18 +9,34 @@
     <link rel="stylesheet" href="./rest.css">
     <link rel="stylesheet" href="./style.css">
 <body>
-<header class="header">
-    <img src="./img/Logo.png" alt="logo" class="header__logo">
-    <nav>
-        <ul class="header__menu">
-            <li class="header__menu-items"><a href="#">Home</a></li>
-            <li class="header__menu-items"><a href="#">Category</a></li>
-            <li class="header__menu-items"><a href="#">About Me</a></li>
-            <li class="header__menu-items"><img src="" alt=""><a href="#">Search</a></li>
-            <li class="header__menu-items"><img src="" alt=""><a href="#">buy Me a Coffee</a></li>
-        </ul>
-    </nav>
-</header>
+<div class="wrapper">
+    <header class="header">
+        <a href="#" class="header__logo">Dasteen<span>.Blog</span></a>
+        <nav>
+            <ul class="header__menu">
+                <li><a href="#" class="nav__link">Home</a></li>
+                <li class="nav__items"><a href="#" class="nav__link">Category</a></li>
+                <li class="nav__items"><a href="#" class="nav__link">About Me</a></li>
+                <li class="nav__items"><img src="./img/search.png" alt="icon" class="nav__icon-search"><a href="#" class="nav__link">Search</a></li>
+                <li class="nav__items"><img src="./img/buymeacoffee.png" alt="icon cup"><a href="#" class="nav__link button">buy Me a Coffee</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+<div class="hero__wrapper">
+    <h1 class="hero__title">Hi, i’m Dasteen Front end dev</h1>
+    <p class="hero__desc">On this blog I share tips and tricks, frameworks, projects, tutorials, etc
+        Make sure you subscribe to get the latest updates</p>
+    <div class="input-wrapper">
+        <input type="text" placeholder="Enter your email here...." class="hero__input">
+        <button class="input-btn">Subscribe</button>
+    </div>
+</div>
+            <img src="./img/hero-img.png" alt="coding" class="hero__img">
+        </section>
+    </main>
+</div>
 
 </body>
 </html>
