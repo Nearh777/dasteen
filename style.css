@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+.header {
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo{
+    width: 194px;
+    height: 45px;
+}
+
+.header__menu {
+    display: flex;
+    gap: 50px;
+}
