@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="start header">
-      <change afterPath="$PROJECT_DIR$/img/animated-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/article-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/article-js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/css-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/foto-author.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/react-js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/react-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tw-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/vue-logo.png" afterDir="false" />
+    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="section article finish">
+      <change afterPath="$PROJECT_DIR$/img/easy-way.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/flexbox-css.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/react.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vue.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737845770051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section article finish">
+      <option name="closed" value="true" />
+      <created>1737996143118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737996143118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start hero" />
     <MESSAGE value="start header" />
-    <option name="LAST_COMMIT_MESSAGE" value="start header" />
+    <MESSAGE value="section article finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="section article finish" />
   </component>
 </project>
