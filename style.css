@@ -307,6 +307,7 @@ li:nth-child(5){
     height: 425px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     padding: 20px;
 }
 
@@ -325,11 +326,9 @@ li:nth-child(5){
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize;
-    margin-bottom: 80px;
 }
 
 .article__author {
-    height: 57px;
     display: flex;
     justify-content: center;
 }
@@ -338,6 +337,13 @@ li:nth-child(5){
     width: 57px;
     height: 57px;
     margin: 0 15px 0 0;
+}
+
+.article__card-box {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .article__author h4 {
