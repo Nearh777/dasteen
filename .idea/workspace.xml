@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="section javascript">
+    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="start section subscribe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -76,6 +76,8 @@
       <workItem from="1737876669207" duration="3327000" />
       <workItem from="1737881384890" duration="3182000" />
       <workItem from="1738008114201" duration="2977000" />
+      <workItem from="1738014790818" duration="128000" />
+      <workItem from="1738093407798" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary="start hero">
       <option name="closed" value="true" />
@@ -101,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738007148801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start section subscribe">
+      <option name="closed" value="true" />
+      <created>1738014895265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738014895266</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +132,7 @@
     <MESSAGE value="start hero" />
     <MESSAGE value="hero" />
     <MESSAGE value="section javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="section javascript" />
+    <MESSAGE value="start section subscribe" />
+    <option name="LAST_COMMIT_MESSAGE" value="start section subscribe" />
   </component>
 </project>
