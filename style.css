@@ -459,5 +459,49 @@ li:nth-child(5){
 .subscribe-input {
     margin-top: 30px;
 }
+ footer {
+     width: 100vw;
+     height: 435px;
+
+     background: #E4E5E9;
+     padding-top: 70px;
+ }
+.footer {
+    display: flex;
+    gap: 160px;
+    margin-top: 70px;
+}
+
+
+ .footer__social {
+     display: flex;
+     gap: 30px;
+ }
+
+ .footer__nav {
+     display: flex;
+ }
+
+.footer__social-wrapper a {
+    margin-bottom: 20px;
+}
+
+.footer__social-wrapper p {
+    color: #2B2C34;
+    /* 18 px - Paragraph 2 */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.footer__social li {
+    width: 30px;
+    height: 30px;
+}
+
+.footer__social li a {
+    margin: auto;
+}
 
 
