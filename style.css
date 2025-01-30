@@ -80,7 +80,7 @@ header {
     text-transform: capitalize;
 }
 
-li:nth-child(4){
+.nav__items:nth-child(4){
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,7 +90,7 @@ li:nth-child(4){
     margin-right: 10px;
 }
 
-li:nth-child(5){
+.nav__items:nth-child(5){
     width: 213px;
     height: 44px;
     display: flex;
@@ -326,6 +326,14 @@ li:nth-child(5){
     flex-direction: column;
     justify-content: space-between;
     padding: 20px;
+    transition: 1.1s;
+}
+
+.article__card:hover {
+    border-radius: 12px;
+    background: #FFFFFE;
+    /* For White Background */
+    box-shadow: 4px 6px 13px 0 rgba(215, 215, 215, 0.25);
 }
 
 .article__card img {
@@ -462,14 +470,12 @@ li:nth-child(5){
  footer {
      width: 100vw;
      height: 435px;
-
      background: #E4E5E9;
-     padding-top: 70px;
  }
 .footer {
     display: flex;
     gap: 160px;
-    margin-top: 70px;
+    padding-top: 70px;
 }
 
 
@@ -482,9 +488,13 @@ li:nth-child(5){
      display: flex;
  }
 
-.footer__social-wrapper a {
-    margin-bottom: 20px;
-}
+
+ .footer__social-wrapper {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+ }
+
 
 .footer__social-wrapper p {
     color: #2B2C34;
@@ -493,15 +503,65 @@ li:nth-child(5){
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-bottom: 20px;
 }
 .footer__social li {
     width: 30px;
     height: 30px;
+
 }
+
+
 
 .footer__social li a {
     margin: auto;
 }
 
+.footer__nav {
+    display: flex;
+    gap: 95px;
+}
+
+.footer__nav-wrapper h3 {
+    color: #2B2C34;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.footer__list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.footer__link {
+    color:  #2B2C34;
+    /* 18 px - Paragraph 2 */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.wrapper {
+    width: 100vw;
+    background: #E4E5E9;
+    margin: 0;
+}
+
+.footer__author {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    border-top: 1px solid #C0C0C0;
+    color: #2B2C34;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
 
