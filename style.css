@@ -194,6 +194,11 @@ header {
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize;
+    transition: 1.2s;
+}
+
+.input-btn:hover {
+    transform: scale(1.1);
 }
 
 .category {
