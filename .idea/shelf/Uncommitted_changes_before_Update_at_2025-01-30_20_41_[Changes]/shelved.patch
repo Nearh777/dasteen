@@ -1,0 +1,58 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"33becf6a-f515-49b5-9637-9b8e0634772c\" name=\"Changes\" comment=\"finish section subscribe\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/style.css\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Nearh777&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/Nearh777/dasteen.git&quot;,\n    &quot;accountId&quot;: &quot;9d05cf34-e4f1-4be4-b900-b0dc5877d3ae&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"2s8Ag4zJL4Nnn6obNFzEdff6o0J\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/serhii/WebstormProjects/dasteen&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"33becf6a-f515-49b5-9637-9b8e0634772c\" name=\"Changes\" comment=\"\" />\n      <created>1737826935663</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1737826935663</updated>\n      <workItem from=\"1737826936824\" duration=\"153000\" />\n      <workItem from=\"1737827090938\" duration=\"2516000\" />\n      <workItem from=\"1737834962633\" duration=\"902000\" />\n      <workItem from=\"1737837635542\" duration=\"573000\" />\n      <workItem from=\"1737838252070\" duration=\"1456000\" />\n      <workItem from=\"1737840269709\" duration=\"5266000\" />\n      <workItem from=\"1737876669207\" duration=\"3327000\" />\n      <workItem from=\"1737881384890\" duration=\"3182000\" />\n      <workItem from=\"1738008114201\" duration=\"2977000\" />\n      <workItem from=\"1738014790818\" duration=\"128000\" />\n      <workItem from=\"1738093407798\" duration=\"2952000\" />\n      <workItem from=\"1738180165192\" duration=\"2917000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"start hero\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1737845770041</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1737845770051</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"hero\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1737880388559</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1737880388561</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"section javascript\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1738007148801</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1738007148801</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"start section subscribe\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1738014895265</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1738014895266</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"finish section subscribe\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1738096955288</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1738096955293</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"finish section subscribe\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1738096976945</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1738096976945</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"start hero\" />\n    <MESSAGE value=\"hero\" />\n    <MESSAGE value=\"section javascript\" />\n    <MESSAGE value=\"start section subscribe\" />\n    <MESSAGE value=\"finish section subscribe\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"finish section subscribe\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2a249ceeb8aac6895d58ecbdefe2dcdcb937668e)
++++ b/.idea/workspace.xml	(date 1738262452395)
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="finish section subscribe">
++    <list default="true" id="33becf6a-f515-49b5-9637-9b8e0634772c" name="Changes" comment="footer">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -79,6 +77,8 @@
+       <workItem from="1738014790818" duration="128000" />
+       <workItem from="1738093407798" duration="2952000" />
+       <workItem from="1738180165192" duration="2917000" />
++      <workItem from="1738183538348" duration="646000" />
++      <workItem from="1738261344226" duration="600000" />
+     </task>
+     <task id="LOCAL-00001" summary="start hero">
+       <option name="closed" value="true" />
+@@ -128,7 +128,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1738096976945</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="footer">
++      <option name="closed" value="true" />
++      <created>1738183566968</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1738183566969</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -151,6 +159,7 @@
+     <MESSAGE value="section javascript" />
+     <MESSAGE value="start section subscribe" />
+     <MESSAGE value="finish section subscribe" />
+-    <option name="LAST_COMMIT_MESSAGE" value="finish section subscribe" />
++    <MESSAGE value="footer" />
++    <option name="LAST_COMMIT_MESSAGE" value="footer" />
+   </component>
+ </project>
+\ No newline at end of file
