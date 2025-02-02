@@ -77,6 +77,16 @@ header {
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize;
+    transition:  1.2s;
+}
+
+.nav__items:nth-child(5):hover {
+    background: #293b70;
+    color: #e1c842;
+}
+
+.nav__link:hover {
+    color: #959699;
 }
 
 .nav__items:nth-child(4){
@@ -101,6 +111,8 @@ header {
 
 }
 
+
+
 .button{
     font-size: 18px;
     font-style: normal;
@@ -108,6 +120,12 @@ header {
     line-height: normal;
     text-transform: capitalize;
     color: #FFFFFE;
+    transition:  1.2s;
+    transform: scale(1.2);
+}
+
+.button:hover{
+    transform: scale(1.2);
 }
 
 .hero {
@@ -193,6 +211,11 @@ header {
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize;
+    transition:  1.2s;
+}
+
+.input-btn:hover {
+    transform: scale(1.1);
 }
 
 .category {
@@ -424,6 +447,11 @@ header {
     line-height: normal;
     text-transform: capitalize;
     margin: 80px 543.5px 80px 543.5px;
+    transition:  1.2s;
+}
+
+.article__btn:hover {
+    transform: scale(1.2);
 }
 
 .subscribe {
@@ -519,11 +547,19 @@ header {
     width: 30px;
     height: 30px;
     display: flex;
+    transition: 1.2s;
 }
 
 .footer__social li a {
     margin: auto;
+    transition: 1.2s;
 }
+
+.footer__social li:hover {
+    color: #959699;
+    transform: scale(1.2);
+}
+
 
 .logo {
     width: 194px;
